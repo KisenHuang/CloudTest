@@ -20,3 +20,11 @@
 	"configGray":100,
 	"configDefaultValue":""
 }
+{
+	"appCode":"1003",
+	"configKey":"hw_allonstage_config",
+	"configValue":"{\"lowDeviceConfig\":{\"minSdkVersion\":23,\"minRam\":500},\"deviceList\":null}",
+	"configDes":"全员上台控制",
+	"configGray":100,
+	"configDefaultValue":""
+}
